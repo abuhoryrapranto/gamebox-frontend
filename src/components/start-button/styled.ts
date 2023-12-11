@@ -26,5 +26,11 @@ export const ButtonStyled = styled.button(
     ':active': {
       transform: 'translateY(0px)',
     },
+
+    '@media screen and (max-width: 360px)': {
+      height: 40,
+      width: "40%",
+      fontSize: "15px"
+    }
   }),
 );

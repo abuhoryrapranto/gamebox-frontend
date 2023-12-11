@@ -13,7 +13,7 @@ export const gameConfig = {
     textColor: '#cffafe',
   },
   startButton: {
-    offsetTop: '70%',
+    offsetTop: '60%',
     buttonText: 'Start Button',
     height: 60,
     width: '60%',
